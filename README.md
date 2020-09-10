@@ -14,7 +14,9 @@ The worflow of this project is as follows:-
 2. Train the agent using a combination of imitation learning and reinforcement learning to optimize the lap time. 
 3. Run the agent with the trained agent. 
 
+## Screenshots
 
+![Asseto Corsa](https://github.com/Mashex/AI-Asseto-Corsa/blob/master/ACAgent.gif)
 ## Getting Started
 
     python main.py
