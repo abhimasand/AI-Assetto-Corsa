@@ -23,15 +23,7 @@ The worflow of this project is as follows:-
 
 [Combining Imitation Learning and Reinforcement Learning Using DQfD](https://danieltakeshi.github.io/2019/04/30/il-and-rl/#:~:text=Imitation%20Learning%20(IL)%20and%20Reinforcement,environment%20to%20get%20feedback%20signals.)
 
-
-
-
-
-
-
-
-
-
+## License
 
 Copyright (c) 2019 Abhishek Masand
 
