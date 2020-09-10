@@ -1,12 +1,12 @@
 
 
-# AI plays Asseto Corsa using imitation learning and reinforcement learning
+# AI plays Assetto Corsa using imitation learning and reinforcement learning
 
 ## Summary
 
-This project aims to use a combination of imitation learning and reinforcement learning in order to play Asseto Corsa. 
+This project aims to use a combination of imitation learning and reinforcement learning in order to play Assetto Corsa. 
 
-Asseto Corsa is a highly acclaimed car racing simulator, with a very robust physics engine, and a very vivid community supporting it. It contains a variety of modes, but this project deals with improving the lap time, and using imitation learning and reinforcement learning for the agent to develop policies so that it can optimize the driving style, and achieve a better lap time than the expert. 
+Assetto Corsa is a highly acclaimed car racing simulator, with a very robust physics engine, and a very vivid community supporting it. It contains a variety of modes, but this project deals with improving the lap time, and using imitation learning and reinforcement learning for the agent to develop policies so that it can optimize the driving style, and achieve a better lap time than the expert. 
 
 The worflow of this project is as follows:- 
 
@@ -16,7 +16,7 @@ The worflow of this project is as follows:-
 
 ## Screenshots
 
-![Asseto Corsa](https://github.com/Mashex/AI-Asseto-Corsa/blob/master/ACAgent.gif)
+![Assetto Corsa](https://github.com/Mashex/AI-Asseto-Corsa/blob/master/ACAgent.gif)
 ## Getting Started
 
     python main.py
